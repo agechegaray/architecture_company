@@ -341,7 +341,7 @@ header span {
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
 #navWrapper {
-  background-color: #c6c6c6;
+  background-color: #6f7272;
 }
 
 nav ul {
@@ -373,7 +373,7 @@ main img {
 }
 main h2 {
   margin-left: 5%;
-  color: #c6c6c6;
+  color: #6f7272;
   font-weight: 300;
 }
 main video {
@@ -383,7 +383,7 @@ main video {
 main details summary {
   margin: 2% 5%;
   padding: 1rem;
-  background-color: #c6c6c6;
+  background-color: #6f7272;
   color: #000000;
   border-radius: 10px;
 }
@@ -415,7 +415,7 @@ footer {
     border: none;
   }
   nav ul li.active a {
-    background-color: #c6c6c6;
+    background-color: #6f7272;
   }
   nav ul li a:hover {
     text-decoration: none;
