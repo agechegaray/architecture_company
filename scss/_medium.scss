@@ -1,0 +1,19 @@
+/* NAVIGATION STUFF GOES HERE  */
+nav {
+    ul {
+        display: flex;
+        justify-content: space-around;
+    }
+    ul li a {
+        margin: 5px 0;
+        border: none;
+    }
+    ul li.active a {
+        background-color: $secondaryColor;
+    }
+    ul li a:hover {
+        text-decoration: none;
+        color: #fff;
+        border-bottom: solid 1px $primaryColor;
+    }
+}

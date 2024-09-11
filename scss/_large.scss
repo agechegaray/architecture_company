@@ -1,0 +1,12 @@
+/* NAVIGATION STUFF GOES HERE  */
+nav {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+nav ul {
+    justify-content: flex-end;
+    li a {
+        padding: .5rem 1.5rem;
+    }
+}
+
