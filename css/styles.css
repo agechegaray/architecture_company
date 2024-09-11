@@ -384,7 +384,7 @@ main details summary {
   margin: 2% 5%;
   padding: 1rem;
   background-color: #6f7272;
-  color: #000000;
+  color: #fff;
   border-radius: 10px;
 }
 main details p {
@@ -416,11 +416,13 @@ footer {
   }
   nav ul li.active a {
     background-color: #6f7272;
+    color: #fff;
+    border: solid 1px #fff;
   }
   nav ul li a:hover {
     text-decoration: none;
     color: #fff;
-    border-bottom: solid 1px #000000;
+    border-bottom: solid 2px #fff;
   }
 }
 @media only screen and (min-width: 64rem) {

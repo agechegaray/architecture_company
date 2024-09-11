@@ -10,10 +10,12 @@ nav {
     }
     ul li.active a {
         background-color: $secondaryColor;
+        color: #fff;
+        border: solid 1px #fff;
     }
     ul li a:hover {
         text-decoration: none;
         color: #fff;
-        border-bottom: solid 1px $primaryColor;
+        border-bottom: solid 2px #fff;
     }
 }
